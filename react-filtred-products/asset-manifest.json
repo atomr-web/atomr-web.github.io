@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-filtred-products/static/css/main.36e60718.chunk.css",
+    "main.js": "/react-filtred-products/static/js/main.bab71b83.chunk.js",
+    "main.js.map": "/react-filtred-products/static/js/main.bab71b83.chunk.js.map",
+    "runtime-main.js": "/react-filtred-products/static/js/runtime-main.c728efa7.js",
+    "runtime-main.js.map": "/react-filtred-products/static/js/runtime-main.c728efa7.js.map",
+    "static/js/2.07a67af3.chunk.js": "/react-filtred-products/static/js/2.07a67af3.chunk.js",
+    "static/js/2.07a67af3.chunk.js.map": "/react-filtred-products/static/js/2.07a67af3.chunk.js.map",
+    "static/js/3.741a500e.chunk.js": "/react-filtred-products/static/js/3.741a500e.chunk.js",
+    "static/js/3.741a500e.chunk.js.map": "/react-filtred-products/static/js/3.741a500e.chunk.js.map",
+    "index.html": "/react-filtred-products/index.html",
+    "precache-manifest.f583b47ba06c9603c8c262e877f3f711.js": "/react-filtred-products/precache-manifest.f583b47ba06c9603c8c262e877f3f711.js",
+    "service-worker.js": "/react-filtred-products/service-worker.js",
+    "static/css/main.36e60718.chunk.css.map": "/react-filtred-products/static/css/main.36e60718.chunk.css.map",
+    "static/js/2.07a67af3.chunk.js.LICENSE.txt": "/react-filtred-products/static/js/2.07a67af3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c728efa7.js",
+    "static/js/2.07a67af3.chunk.js",
+    "static/css/main.36e60718.chunk.css",
+    "static/js/main.bab71b83.chunk.js"
+  ]
+}
