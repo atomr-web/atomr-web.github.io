@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-bear-book/static/css/main.4dc06250.chunk.css",
-    "main.js": "/react-bear-book/static/js/main.76d05c7e.chunk.js",
-    "main.js.map": "/react-bear-book/static/js/main.76d05c7e.chunk.js.map",
+    "main.js": "/react-bear-book/static/js/main.fbd5066b.chunk.js",
+    "main.js.map": "/react-bear-book/static/js/main.fbd5066b.chunk.js.map",
     "runtime-main.js": "/react-bear-book/static/js/runtime-main.880d7f6a.js",
     "runtime-main.js.map": "/react-bear-book/static/js/runtime-main.880d7f6a.js.map",
     "static/css/2.a2026422.chunk.css": "/react-bear-book/static/css/2.a2026422.chunk.css",
     "static/js/2.520f5a34.chunk.js": "/react-bear-book/static/js/2.520f5a34.chunk.js",
     "static/js/2.520f5a34.chunk.js.map": "/react-bear-book/static/js/2.520f5a34.chunk.js.map",
     "index.html": "/react-bear-book/index.html",
-    "precache-manifest.3b11a8f5835ba53f2e34b5f98c393703.js": "/react-bear-book/precache-manifest.3b11a8f5835ba53f2e34b5f98c393703.js",
+    "precache-manifest.199dcd2d95c62ab00fc2e7a0ebaf59ab.js": "/react-bear-book/precache-manifest.199dcd2d95c62ab00fc2e7a0ebaf59ab.js",
     "service-worker.js": "/react-bear-book/service-worker.js",
     "static/css/2.a2026422.chunk.css.map": "/react-bear-book/static/css/2.a2026422.chunk.css.map",
     "static/css/main.4dc06250.chunk.css.map": "/react-bear-book/static/css/main.4dc06250.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.a2026422.chunk.css",
     "static/js/2.520f5a34.chunk.js",
     "static/css/main.4dc06250.chunk.css",
-    "static/js/main.76d05c7e.chunk.js"
+    "static/js/main.fbd5066b.chunk.js"
   ]
 }
